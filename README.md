@@ -1,4 +1,4 @@
-# pdbdownload
+![](./.github/banner.png)
 
 <p align="center">
     A Python script to download PDB files associated with a Portable Executable (PE).
@@ -16,7 +16,7 @@
 
 ## Installation
 
-pdbdownload is available on [PyPi](https://pypi.org/project/pdbdownload/1.2/):
+pdbdownload is available on [PyPi](https://pypi.org/project/pdbdownload/):
 
 ```
 python3 -m pip install pdbdownload
